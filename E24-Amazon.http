@@ -1,0 +1,6 @@
+@E24_Amazon_HostAddress = http://localhost:5206
+
+GET {{E24_Amazon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
