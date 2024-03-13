@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joeyebach/workspace/foundations/CsharpProjects/e24-amazon-group-project/E24-Amazon.csproj": {}
+    "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\E24-Amazon.csproj": {}
   },
   "projects": {
-    "/Users/joeyebach/workspace/foundations/CsharpProjects/e24-amazon-group-project/E24-Amazon.csproj": {
+    "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\E24-Amazon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joeyebach/workspace/foundations/CsharpProjects/e24-amazon-group-project/E24-Amazon.csproj",
+        "projectUniqueName": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\E24-Amazon.csproj",
         "projectName": "E24-Amazon",
-        "projectPath": "/Users/joeyebach/workspace/foundations/CsharpProjects/e24-amazon-group-project/E24-Amazon.csproj",
-        "packagesPath": "/Users/joeyebach/.nuget/packages/",
-        "outputPath": "/Users/joeyebach/workspace/foundations/CsharpProjects/e24-amazon-group-project/obj/",
+        "projectPath": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\E24-Amazon.csproj",
+        "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/joeyebach/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -76,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.405/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
