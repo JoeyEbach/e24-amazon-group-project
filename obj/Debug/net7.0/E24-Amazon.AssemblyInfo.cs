@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("E24-Amazon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cee78b31c8faf237904ccfa57b109bb16f7cc882")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3991f7f09715ef3def6c5a6d2f107f6c4c62eaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("E24-Amazon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("E24-Amazon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,84 +1,91 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\",
+  "WorkspaceRootPath": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\blabberdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:blabberdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\models\\reaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\models\\reaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:models\\reaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\requests\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:requests\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\requests\\subscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\requests\\subscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:requests\\subscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\requests\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:requests\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\dtos\\posttagsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:dtos\\posttagsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\requests\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:requests\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\dtos\\postreactionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:dtos\\postreactionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\requests\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:requests\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\requests\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:requests\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\requests\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:requests\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\requests\\reactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:requests\\reactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\requests\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:requests\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\requests\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:requests\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\dtos\\posttagsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:dtos\\posttagsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\blabberdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:blabberdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sania\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed84e849-db46-4442-9e4b-7e42907ced06\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\dtos\\postreactionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:dtos\\postreactionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alex\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed84e849-db46-4442-9e4b-7e42907ced06\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\requests\\reactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:requests\\reactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\requests\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:requests\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\requests\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:requests\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\alex\\workspace\\csharp\\e24-amazon-group-project\\e24-amazon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|c:\\users\\sania\\workspace\\csharp\\e24-amazon-group-project\\e24-amazon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{887D2E1A-5A85-47A8-896D-311445A255F9}|E24-Amazon.csproj|solutionrelative:e24-amazon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -89,145 +96,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "DocumentIndex": 13,
+              "Title": "Reactions.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Reactions.cs",
+              "RelativeDocumentMoniker": "Requests\\Reactions.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Reactions.cs",
+              "RelativeToolTip": "Requests\\Reactions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T00:29:20.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T00:12:53.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BlabberDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\BlabberDbContext.cs",
-              "RelativeDocumentMoniker": "BlabberDbContext.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\BlabberDbContext.cs",
-              "RelativeToolTip": "BlabberDbContext.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAYwC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T00:20:11.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T00:09:56.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Subscription.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Models\\Subscription.cs",
-              "RelativeDocumentMoniker": "Models\\Subscription.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Models\\Subscription.cs",
-              "RelativeToolTip": "Models\\Subscription.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T00:09:47.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PostReactionsDTO.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\DTOs\\PostReactionsDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\PostReactionsDTO.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\DTOs\\PostReactionsDTO.cs",
-              "RelativeToolTip": "DTOs\\PostReactionsDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T00:10:49.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PostTagsDTO.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\DTOs\\PostTagsDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\PostTagsDTO.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\DTOs\\PostTagsDTO.cs",
-              "RelativeToolTip": "DTOs\\PostTagsDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T00:11:00.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\alex\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed84e849-db46-4442-9e4b-7e42907ced06\\secrets.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed84e849-db46-4442-9e4b-7e42907ced06\\secrets.json",
-              "ToolTip": "C:\\Users\\alex\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed84e849-db46-4442-9e4b-7e42907ced06\\secrets.json",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed84e849-db46-4442-9e4b-7e42907ced06\\secrets.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-12T23:17:47.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T00:14:40.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Categories.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Categories.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Categories.cs",
               "RelativeDocumentMoniker": "Requests\\Categories.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Categories.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Categories.cs",
               "RelativeToolTip": "Requests\\Categories.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAHkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T00:29:32.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Comments.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Comments.cs",
-              "RelativeDocumentMoniker": "Requests\\Comments.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Comments.cs",
-              "RelativeToolTip": "Requests\\Comments.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T00:11:41.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Reaction.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Models\\Reaction.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Models\\Reaction.cs",
               "RelativeDocumentMoniker": "Models\\Reaction.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Models\\Reaction.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Models\\Reaction.cs",
               "RelativeToolTip": "Models\\Reaction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -236,24 +150,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Users.cs",
-              "RelativeDocumentMoniker": "Requests\\Users.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Users.cs",
-              "RelativeToolTip": "Requests\\Users.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T00:11:50.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Subscriptions.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Subscriptions.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Subscriptions.cs",
               "RelativeDocumentMoniker": "Requests\\Subscriptions.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Subscriptions.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Subscriptions.cs",
               "RelativeToolTip": "Requests\\Subscriptions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -262,98 +163,222 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Models\\Tag.cs",
-              "RelativeDocumentMoniker": "Models\\Tag.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Models\\Tag.cs",
-              "RelativeToolTip": "Models\\Tag.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T00:10:14.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "Models\\Comment.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Models\\Comment.cs",
-              "RelativeToolTip": "Models\\Comment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Title": "Tags.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Tags.cs",
+              "RelativeDocumentMoniker": "Requests\\Tags.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Tags.cs",
+              "RelativeToolTip": "Requests\\Tags.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T00:10:06.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T00:12:40.367Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Users.cs",
+              "RelativeDocumentMoniker": "Requests\\Users.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Users.cs",
+              "RelativeToolTip": "Requests\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T00:11:50.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T00:10:06.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Models\\Subscription.cs",
+              "RelativeDocumentMoniker": "Models\\Subscription.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Models\\Subscription.cs",
+              "RelativeToolTip": "Models\\Subscription.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T00:09:47.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Models\\Tag.cs",
+              "RelativeToolTip": "Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T00:10:14.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T00:09:56.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T00:29:20.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\DTOs\\PostDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PostDto.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\DTOs\\PostDto.cs",
+              "RelativeToolTip": "DTOs\\PostDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T12:59:39.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Models\\Post.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Models\\Post.cs",
               "RelativeDocumentMoniker": "Models\\Post.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Models\\Post.cs",
               "RelativeToolTip": "Models\\Post.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T00:09:26.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Reactions.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Reactions.cs",
-              "RelativeDocumentMoniker": "Requests\\Reactions.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Reactions.cs",
-              "RelativeToolTip": "Requests\\Reactions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "DocumentIndex": 3,
+              "Title": "Posts.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Posts.cs",
+              "RelativeDocumentMoniker": "Requests\\Posts.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Posts.cs",
+              "RelativeToolTip": "Requests\\Posts.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAAAPEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T00:12:53.761Z",
+              "WhenOpened": "2024-03-13T02:31:07.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Tags.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Tags.cs",
-              "RelativeDocumentMoniker": "Requests\\Tags.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Tags.cs",
-              "RelativeToolTip": "Requests\\Tags.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Title": "BlabberDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\BlabberDbContext.cs",
+              "RelativeDocumentMoniker": "BlabberDbContext.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\BlabberDbContext.cs",
+              "RelativeToolTip": "BlabberDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T00:12:40.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T00:20:11.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Posts.cs",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Posts.cs",
-              "RelativeDocumentMoniker": "Requests\\Posts.cs",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Posts.cs",
-              "RelativeToolTip": "Requests\\Posts.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "DocumentIndex": 12,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Comments.cs",
+              "RelativeDocumentMoniker": "Requests\\Comments.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Requests\\Comments.cs",
+              "RelativeToolTip": "Requests\\Comments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T00:12:21.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T00:11:41.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T00:14:40.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\alex\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed84e849-db46-4442-9e4b-7e42907ced06\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\alex\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed84e849-db46-4442-9e4b-7e42907ced06\\secrets.json",
+              "ToolTip": "C:\\Users\\alex\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed84e849-db46-4442-9e4b-7e42907ced06\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\alex\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed84e849-db46-4442-9e4b-7e42907ced06\\secrets.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T23:17:47.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PostTagsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\DTOs\\PostTagsDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\PostTagsDTO.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\DTOs\\PostTagsDTO.cs",
+              "RelativeToolTip": "DTOs\\PostTagsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T00:11:00.013Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "E24-Amazon",
-              "DocumentMoniker": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\E24-Amazon.csproj",
+              "Title": "PostReactionsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\DTOs\\PostReactionsDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\PostReactionsDTO.cs",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\DTOs\\PostReactionsDTO.cs",
+              "RelativeToolTip": "DTOs\\PostReactionsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T00:10:49.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\sania\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed84e849-db46-4442-9e4b-7e42907ced06\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed84e849-db46-4442-9e4b-7e42907ced06\\secrets.json",
+              "ToolTip": "C:\\Users\\sania\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed84e849-db46-4442-9e4b-7e42907ced06\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed84e849-db46-4442-9e4b-7e42907ced06\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T01:09:20.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "E24-Amazon.csproj",
+              "DocumentMoniker": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\E24-Amazon.csproj",
               "RelativeDocumentMoniker": "E24-Amazon.csproj",
-              "ToolTip": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\E24-Amazon.csproj",
+              "ToolTip": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\E24-Amazon.csproj",
               "RelativeToolTip": "E24-Amazon.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-13T00:08:45.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-03-13T00:08:45.539Z"
             }
           ]
         }
