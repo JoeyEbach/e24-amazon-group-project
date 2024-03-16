@@ -1224,19 +1224,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alex\\.nuget\\packages\\": {}
+    "C:\\Users\\sania\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\E24-Amazon.csproj",
+      "projectUniqueName": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\E24-Amazon.csproj",
       "projectName": "E24-Amazon",
-      "projectPath": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\E24-Amazon.csproj",
-      "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alex\\workspace\\csharp\\e24-amazon-group-project\\obj\\",
+      "projectPath": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\E24-Amazon.csproj",
+      "packagesPath": "C:\\Users\\sania\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sania\\workspace\\csharp\\e24-amazon-group-project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sania\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

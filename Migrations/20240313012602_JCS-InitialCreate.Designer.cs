@@ -3,6 +3,7 @@ using System;
 using E24_Amazon;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -11,9 +12,10 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace E24_Amazon.Migrations
 {
     [DbContext(typeof(BlabberDbContext))]
-    partial class BlabberDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240313012602_JCS-InitialCreate")]
+    partial class JCSInitialCreate
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
